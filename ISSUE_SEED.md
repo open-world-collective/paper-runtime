@@ -11,4 +11,4 @@ Use format `- Title :: Description`.
 - Build release artifact policy :: Define versioning, changelog, and release artifact retention expectations.
 - Add structured runtime logging profile :: Standardize log fields and severity mapping for operations debugging.
 - Permission model for ops scripts :: Add least-privilege guidance and script permission boundaries.
-- Migration tracker: Minecraft-specific assumptions :: Track assumptions that must be abstracted for future engine-agnostic migration.
+- Migration tracker: game-specific assumptions :: Track assumptions that must be abstracted for future engine-agnostic migration.

@@ -1,6 +1,6 @@
 # paper-runtime
 
-Minecraft-compatible Paper runtime and operations repo for Open World Collective.
+Vanilla-compatible Paper runtime and operations repo for Open World Collective.
 
 ## Current scope
 

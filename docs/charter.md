@@ -2,7 +2,7 @@
 
 ## Mission
 
-Provide stable, observable Minecraft-compatible Paper runtime operations while defining interfaces that can later support engine-agnostic infrastructure.
+Provide stable, observable vanilla-compatible Paper runtime operations while defining interfaces that can later support engine-agnostic infrastructure.
 
 ## Guardrails
 
@@ -14,7 +14,7 @@ Provide stable, observable Minecraft-compatible Paper runtime operations while d
 
 - Production-grade runbooks and backup discipline
 - Stable plugin API surface for world powers
-- Measured migration plan from Minecraft-specific assumptions
+- Measured migration plan from game-specific assumptions
 
 ## Legal note
 
