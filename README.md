@@ -8,6 +8,10 @@ Vanilla-compatible Paper runtime and operations repo for Open World Collective.
 - Plugin workspace for world powers and governance hooks
 - Deployment, backups, observability, and incident runbooks
 
+## AI provider policy
+
+See [AI_PROVIDER_POLICY.md](AI_PROVIDER_POLICY.md).
+
 ## Explicit non-goals (for now)
 
 - Not a Paper fork yet
